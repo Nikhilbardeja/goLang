@@ -1,0 +1,4 @@
+ C:\codeFiles\projects\goLang\fileio> go run main.go
+PS C:\codeFiles\projects\goLang\fileio> go run main.go
+7
+PS C:\codeFiles\projects\goLang\fileio> 
