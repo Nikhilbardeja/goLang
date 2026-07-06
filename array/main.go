@@ -14,4 +14,12 @@ func main() {
 	fmt.Println(num)
 
 	fmt.Println(len(num))
+
+	var a = []int{12, 24, 25}
+	add(a, 5)
+}
+
+func add(arr []int, element int) (result []int) {
+	arr = append(arr, element)
+	return arr
 }
