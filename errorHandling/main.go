@@ -20,11 +20,6 @@ func main() {
 
 	fmt.Println(result, er)
 
-	var m int
-	fmt.Scan(&m)
-
-	fmt.Println(10 / m)
-
 }
 
 func dev(a, b float64) (float64, error) {
