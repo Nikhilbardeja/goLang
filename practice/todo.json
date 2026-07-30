@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "task": "My New Task",
+    "done": true
+  },
+  {
+    "id": 1,
+    "task": "My Second New Task",
+    "done": true
+  },
+  {
+    "id": 2,
+    "task": "My Third New Task",
+    "done": true
+  }
+]
